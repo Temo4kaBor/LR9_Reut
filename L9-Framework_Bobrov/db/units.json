@@ -1,0 +1,120 @@
+{
+  "units": [
+    {
+      "id": "u1",
+      "name": "Первая танковая рота",
+      "size": 45,
+      "isCombatReady": false,
+      "lastExerciseDate": "2026-01-15T10:00:00Z",
+      "equipment": [
+        "T-90",
+        "БМП-3",
+        "ГАЗ-Тигр"
+      ]
+    },
+    {
+      "id": "u2",
+      "name": "Новое подразделение",
+      "size": 0,
+      "isCombatReady": false,
+      "lastExerciseDate": "2026-02-12T13:56:58.044Z",
+      "equipment": []
+    },
+    {
+      "id": "u3",
+      "name": "Новое подразделение",
+      "size": 0,
+      "isCombatReady": false,
+      "lastExerciseDate": "2026-02-12T14:00:17.901Z",
+      "equipment": []
+    },
+    {
+      "id": "u4",
+      "name": "Спецназ ГРУ",
+      "size": 12,
+      "isCombatReady": false,
+      "lastExerciseDate": "2026-02-12T14:00:53.159Z",
+      "equipment": []
+    },
+    {
+      "id": "u5",
+      "name": "Спецназ ГРУ",
+      "size": 12,
+      "isCombatReady": false,
+      "lastExerciseDate": "2026-02-12T14:03:48.489Z",
+      "equipment": []
+    },
+    {
+      "id": "u6",
+      "name": "Спецназ ГРУ",
+      "size": 12,
+      "isCombatReady": false,
+      "lastExerciseDate": "2026-02-12T14:03:51.154Z",
+      "equipment": []
+    },
+    {
+      "id": "u7",
+      "name": "Спецназ ГРУ",
+      "size": 12,
+      "isCombatReady": false,
+      "lastExerciseDate": "2026-02-12T14:03:51.309Z",
+      "equipment": []
+    },
+    {
+      "id": "u8",
+      "name": "Спецназ ГРУ",
+      "size": 12,
+      "isCombatReady": false,
+      "lastExerciseDate": "2026-02-12T14:03:58.738Z",
+      "equipment": []
+    },
+    {
+      "id": "u9",
+      "name": "Спецназ ГРУ",
+      "size": 12,
+      "isCombatReady": false,
+      "lastExerciseDate": "2026-02-12T14:04:05.707Z",
+      "equipment": []
+    },
+    {
+      "id": "u10",
+      "name": "Спецназ ГРУ",
+      "size": 12,
+      "isCombatReady": false,
+      "lastExerciseDate": "2026-02-12T14:17:20.547Z",
+      "equipment": []
+    },
+    {
+      "id": "u1770906301770",
+      "name": "Разведка",
+      "size": 10,
+      "isCombatReady": false,
+      "lastExerciseDate": "2026-02-12T14:25:01.770Z",
+      "equipment": []
+    },
+    {
+      "id": "u1770906502462",
+      "name": "Разведка",
+      "size": 10,
+      "isCombatReady": false,
+      "lastExerciseDate": "2026-02-12T14:28:22.462Z",
+      "equipment": []
+    },
+    {
+      "id": "u1770906653459",
+      "name": "Разведка",
+      "size": 10,
+      "isCombatReady": false,
+      "lastExerciseDate": "2026-02-12T14:30:53.459Z",
+      "equipment": []
+    },
+    {
+      "id": "u1770906789281",
+      "name": "Разведка",
+      "size": 10,
+      "isCombatReady": false,
+      "lastExerciseDate": "2026-02-12T14:33:09.281Z",
+      "equipment": []
+    }
+  ]
+}
